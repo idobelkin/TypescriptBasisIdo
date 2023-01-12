@@ -1,5 +1,4 @@
-import { Charger } from './Charger.js';
-let c = new Charger();
+//let c : Charger = new Charger();
 alert("21355");
 function input() {
     var _a;
@@ -25,3 +24,4 @@ function getAmmoutOfPositive(list) {
 function sortList(list) {
     return list.sort((a, b) => a - b);
 }
+export {};

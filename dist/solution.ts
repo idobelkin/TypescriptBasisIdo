@@ -1,6 +1,6 @@
 
 import {Charger} from './Charger.js';
-let c : Charger = new Charger();
+//let c : Charger = new Charger();
 alert("21355");
 
 
