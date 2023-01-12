@@ -1,8 +1,9 @@
-//let arr : number[] = input();
-///alert("the result: " + sortList(arr).toString());
-let arr0 : number[] = input();
-let arr1 : number[] = sortList(arr0);
-alert(""+arr1.toString());
+
+import {Charger} from './Charger.js';
+let c : Charger = new Charger();
+alert("21355");
+
+
 
 function input() : number[]
 {

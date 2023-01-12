@@ -1,9 +1,6 @@
-"use strict";
-//let arr : number[] = input();
-///alert("the result: " + sortList(arr).toString());
-let arr0 = input();
-let arr1 = sortList(arr0);
-alert("" + arr1.toString());
+import { Charger } from './Charger.js';
+let c = new Charger();
+alert("21355");
 function input() {
     var _a;
     let input = (_a = prompt("Enter number, -1 to stop")) !== null && _a !== void 0 ? _a : "null";
